@@ -1,0 +1,8 @@
+﻿  NetworkStudent.cpp
+  Roster.cpp
+c:\users\brime\source\repos\wgu c867\c867\c867\roster.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  SecurityStudent.cpp
+  SoftwareStudent.cpp
+  Student.cpp
+  Generating Code...
+  C867.vcxproj -> C:\Users\brime\source\repos\WGU C867\C867\Debug\C867.exe
